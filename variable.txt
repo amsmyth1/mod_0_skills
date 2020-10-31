@@ -1,0 +1,14 @@
+Mod0 technical_assesment
+Part_three
+
+ruby
+
+1. food = "Food gives me life!"
+2. is_delicious = true
+3. food = "Pizza"
+4. num2 = 2
+5. num7 = 7
+6. quotient = num7 / num2
+7. songs = ["Hey Jude", "Darling", "Let it Be"]
+9. songs.shift
+10. food.size
