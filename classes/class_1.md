@@ -2,7 +2,7 @@
 
 ### Attributes
 
-number_of_items: integer
+number_of_items: integer\ 
 category: array ["breakfast", "lunch", "dinner", "happy hour"]
 cuisine: "String"
 season: array ["Spring", "Summer", "Fall", "Winter"]
